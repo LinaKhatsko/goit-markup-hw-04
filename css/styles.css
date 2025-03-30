@@ -357,6 +357,7 @@ img {
 
 .footer-wrap {
         display: flex;
+        align-items: baseline;
 }
 
 .footer-column-social {
@@ -384,7 +385,7 @@ img {
 }
 
 .footer-soc-icon {
-        fill: #fff;
+        fill: #f4f4fd;
         display: block;     
 }
 
@@ -393,7 +394,7 @@ img {
 }
 
 .social-link {
-        display: inline-flex;
+        display: flex;
         justify-content: center;
         align-items: center;
         width: 40px;
